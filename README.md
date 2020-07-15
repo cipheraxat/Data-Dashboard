@@ -2,7 +2,7 @@
 
 ## Project Motivation
 
-In this project, I apply skills I learned in Software Engineering Section to develop and deploy a data dashboard.
+In this project,  applied skills and learnt to develop and deploy a data dashboard.
 
 ## File Description
 
